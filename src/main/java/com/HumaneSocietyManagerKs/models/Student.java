@@ -1,4 +1,4 @@
-package com.CaseStudyTemplate.models;
+package com.HumaneSocietyManagerKs.models;
 
 public class Student {
 
